@@ -44,9 +44,9 @@ aside img {
 main img {
   width: 150px;
   height: auto;
-  border: 1px solid brown;
+  border: 1px solid rgba(61 45 45/ 0.9);
   padding: 0;
-  box-shadow: 0px 0px 20px rgb(49, 40, 40);
+  box-shadow: 0px 0px 20px rgba(49 40 40/ 0.9);
 }
 
 p {
