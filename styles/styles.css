@@ -21,17 +21,13 @@ img {
   box-shadow: 0 0 30px gray;
 }
 
-p {
-  padding: 10px;
-}
-
 main {
   max-width: 840px;
 }
 
 aside {
   width: 200px;
-  margin: 1 rem;
+  margin: 1rem;
   border: 2px dashed rgb(173 152 204 / 0.7);
   padding: 10px;
   background-color: bisque;
@@ -48,6 +44,9 @@ aside img {
 main img {
   width: 150px;
   height: auto;
+  border: 1px solid brown;
+  padding: 0;
+  box-shadow: 0px 0px 20px rgb(49, 40, 40);
 }
 
 p {
