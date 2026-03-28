@@ -1,6 +1,6 @@
 :root {
   --primary-color: rgb(129, 129, 114);
-  --secondary-color: rgb(124, 233, 124);
+  --secondary-color: rgb(163, 168, 163);
   --accent1-color: rgb(93, 93, 175);
   --accent2-color: white;
   --heading-font: "Times New Roman", "Georgia", serif;
@@ -87,7 +87,7 @@ h2 {
   margin: 2px;
   padding: 16px;
   text-align: center;
-  background-color: var(--accent1-color);
+  background-color: var(--secondary-color);
   color: var(--accent2-color);
 }
 
